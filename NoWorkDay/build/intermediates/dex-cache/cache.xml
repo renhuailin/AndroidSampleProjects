@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/harley/Documents/workspace/android/NoWorkDay/noWorkDay/build/intermediates/exploded-aar/NoWorkDay/library_pullToRefresh/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6035e0a80bcbc9e015492ba6ebcd7cc3680ed962">
+        <dex dex="/Users/harley/Documents/workspace/android/NoWorkDay/noWorkDay/build/intermediates/pre-dexed/debug/classes-f01042e9b59c99d2c0bc04cf0081fb224a0a29a3.jar" />
+    </item>
+    <item
+        jar="/Users/harley/Documents/workspace/android/NoWorkDay/noWorkDay/build/intermediates/exploded-aar/NoWorkDay/library_imageLoader/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bc2bc85236c6cd352ada690681fe70855256f12b">
+        <dex dex="/Users/harley/Documents/workspace/android/NoWorkDay/noWorkDay/build/intermediates/pre-dexed/debug/classes-5549a89e5a76cc1e721b230a1f0f2001f89e7e58.jar" />
+    </item>
+    <item
+        jar="/Users/harley/Softwares/development/android-sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/harley/Documents/workspace/android/NoWorkDay/noWorkDay/build/intermediates/pre-dexed/debug/support-v4-18.0.0-07e331c751a8a3c3dbdc55644b5461080e7d95b7.jar" />
+    </item>
+    <item
+        jar="/Users/harley/Documents/workspace/android/NoWorkDay/noWorkDay/build/intermediates/exploded-aar/NoWorkDay/library_SlidingMenu/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1977867c851ef9db3145cc0ccc025a30c21b456b">
+        <dex dex="/Users/harley/Documents/workspace/android/NoWorkDay/noWorkDay/build/intermediates/pre-dexed/debug/classes-a7cc993c14581bc0f4dcc4e96e6a0ff22a573648.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:drawable="@drawable/new_guide_round" android:state_selected="false"></item>
+	<item android:drawable="@drawable/new_guide_round_selected"></item>
+</selector>
+<!-- From: file:/Users/harley/Documents/workspace/android/NoWorkDay/noWorkDay/src/main/res/drawable/selector_indicate.xml -->
